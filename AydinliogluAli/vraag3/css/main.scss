@@ -1,0 +1,15 @@
+body {
+  background-color: #700707;
+  margin: 0;
+  padding: 0 5em;
+}
+
+img[alt='logo'] {
+  display: block;
+  max-width: 100%;
+  min-width: 560px;
+  height: auto;
+  margin: 2em auto;
+  position: sticky;
+  top: 2em;
+}
